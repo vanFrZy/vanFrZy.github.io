@@ -1,6 +1,4 @@
-## Website
-
-### www.vanFrZy.github.io
+## [Website](https://vanfrzy.github.io/)
 
 ### Setup
 Install npm packages
