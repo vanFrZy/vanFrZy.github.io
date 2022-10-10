@@ -27,7 +27,7 @@ const Ctf = function () {
                 Capture The Flag Teams
             </div>
             <div
-                className="p-6 grid grid-cols-2 m-auto max-w-6xl">
+                className="p-6 grid grid-cols-1 sm:grid-cols-1 sm:p-6 md:grid-cols-2 m-auto max-w-6xl">
                 <Team
                     teamname={"RoyalRoppers"}
                     logo={rr}

@@ -28,7 +28,7 @@ const Education = function () {
                 Education
             </div>
             <div
-                className="p-6 grid grid-cols-2 m-auto max-w-6xl">
+                className="p-6 grid grid-cols-1 sm:grid-cols-1 sm:p-6 md:grid-cols-2 md:p-6 m-auto max-w-6xl">
                 <Study
                     university={"UM"}
                     subject={"Data Science and Artificial Intelligence"}
