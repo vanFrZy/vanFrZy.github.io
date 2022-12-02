@@ -1,4 +1,3 @@
-import letzpwn from "../Assets/CaptureTheFlag/letzpwn.png";
 import rr from "../Assets/CaptureTheFlag/rr.png";
 
 const Team = function ({teamname, logo, homepage, ctftime}) {
@@ -36,7 +35,7 @@ const Ctf = function () {
                 />
                 <Team
                     teamname={"LetzPwn"}
-                    logo={letzpwn}
+                    logo={"https://letzpwn.com/assets/images/logo.png"}
                     homepage={"letzpwn.com"}
                     ctftime={"78388"}
                 />
