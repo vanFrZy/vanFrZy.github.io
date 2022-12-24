@@ -4,7 +4,10 @@
 
 <footer class="flex justify-center mb-2">
 	<div class="flex flex-wrap">
-		<a class="m-3 transition duration-500 hover:scale-125" href="https://ctftime.org/user/127095">
+		<a
+			class="m-3 transition duration-500 hover:scale-125"
+			href="https://keys.openpgp.org/vks/v1/by-fingerprint/1A55B4FF1481ADB957A8944D5410293C08C01B26"
+		>
 			<Key color={'white'} size={40} />
 		</a>
 		<a class="m-3 transition duration-500 hover:scale-125" href="mailto:fred@windt.me">

@@ -18,16 +18,16 @@
 			homepage={'royalroppers.team'}
 			ctftime={'176008'}
 			description={'RoyalRoppers is the KTH university team that I Co-Founded with other students. <br/>' +
-				'We do regular meet-ups to improve our CTF skills and then compete in several competitions. <br/>' +
-				'In 2022 we managed to become number 92 in the worldwide leaderboard!!'}
+				'We do regular meet-ups to improve our CTF skills. Additionally, we compete in several competitions. <br/>' +
+				'In 2022 we managed to become number 92 on the worldwide leaderboard!!'}
 		/>
 		<Team
 			teamname={'LetzPwn'}
 			logo={'https://letzpwn.com/assets/images/logo.png'}
 			homepage={'letzpwn.com'}
 			ctftime={'78388'}
-			description={'LetzPwn is the first Luxembourgish CTF team that I also Co-Founded with other people that ' +
-				'represented Luxembourg in the European Cyber Security Challenge (ECSC) in 2022.<br/> ' +
+			description={'LetzPwn is the first Luxembourgish CTF team. I co-founded the team with ' +
+				'other people representing Luxembourg in the European Cyber Security Challenge (ECSC) in 2022.<br/> ' +
 				'We try to engage young people to become interested in Cyber Security and strengthen the ' +
 				'Luxembourgish national team.'}
 		/>
