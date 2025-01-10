@@ -6,11 +6,11 @@
 	<div class="flex flex-wrap">
 		<a
 			class="m-3 transition duration-500 hover:scale-125"
-			href="https://keys.openpgp.org/vks/v1/by-fingerprint/1A55B4FF1481ADB957A8944D5410293C08C01B26"
+			href="https://keys.openpgp.org/vks/v1/by-fingerprint/362A8C33D77622BC5AF6DD54002CAE07A9FDAE95"
 		>
 			<Key color={'white'} size={40} />
 		</a>
-		<a class="m-3 transition duration-500 hover:scale-125" href="mailto:fred@windt.me">
+		<a class="m-3 transition duration-500 hover:scale-125" href="mailto:contact@windt.me">
 			<Envelope color={'white'} size={40} />
 		</a>
 		<a

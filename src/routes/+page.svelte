@@ -1,6 +1,6 @@
 <svelte:head>
 	<title>Windt</title>
-	<meta name="description" content="Svelte demo app" />
+	<meta name="info" content="Business card" />
 </svelte:head>
 
 <div class="default-text flex justify-center">
